@@ -1,4 +1,4 @@
-# TanujaGandu.github.io
+# TanujaGandu
 #Senior Full Stack Developer 
 ### Education
 Physics, PhD
