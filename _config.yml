@@ -1,4 +1,5 @@
-title: TANUJA GANDU
-#logo: /assets/img/headshot_circle.png
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
 #description: text below image
-sha_down Loads: true theme: theme: jekyll-theme-merlot
+show_downloads: true
+theme: jekyll-theme-merlot
